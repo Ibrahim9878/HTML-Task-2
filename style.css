@@ -1,0 +1,64 @@
+.HeaderSection
+{
+    background-color: #4989dc;
+    display: flex;
+    align-items: center;
+    height: 400px;
+}
+.ProfileImage
+{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+.SecondSection
+{
+    display: inline;
+    margin-left: 200px;
+    color: white;
+}
+
+.Name
+{
+    font-size: 70px;
+}
+.Description 
+{
+    font-size: 25px;
+    
+}
+.MainSection1
+{
+    display: flex;
+    align-items: center;
+    margin-left: 50px;
+}
+.TableSection
+{
+    display: flex;
+    align-items: center;
+    font-size:xx-large;
+    font-size:xx-large;
+    color: grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+.AboutSection
+{
+    font-size:xx-large;
+    color: grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table 
+{
+    table-layout: fixed;
+    width: 180px;
+}
+tr
+{
+    table-layout: fixed;
+}
+table{
+  table-layout: fixed;
+  width: 180px;
+}
